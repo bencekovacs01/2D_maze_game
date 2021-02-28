@@ -1,0 +1,18 @@
+D:\szakvizsgauj\szakvizsga uj\bin\Release\szakvizsga uj.exe.config
+D:\szakvizsgauj\szakvizsga uj\bin\Release\szakvizsga uj.exe
+D:\szakvizsgauj\szakvizsga uj\bin\Release\szakvizsga uj.pdb
+D:\szakvizsgauj\szakvizsga uj\bin\Release\Interop.WMPLib.dll
+D:\szakvizsgauj\szakvizsga uj\bin\Release\AxInterop.WMPLib.dll
+D:\szakvizsgauj\szakvizsga uj\obj\Release\szakvizsga uj.csprojAssemblyReference.cache
+D:\szakvizsgauj\szakvizsga uj\obj\Release\Interop.WMPLib.dll
+D:\szakvizsgauj\szakvizsga uj\obj\Release\AxInterop.WMPLib.dll
+D:\szakvizsgauj\szakvizsga uj\obj\Release\szakvizsga uj.csproj.ResolveComReference.cache
+D:\szakvizsgauj\szakvizsga uj\obj\Release\szakvizsga_uj.form1.resources
+D:\szakvizsgauj\szakvizsga uj\obj\Release\szakvizsga_uj.Form2.resources
+D:\szakvizsgauj\szakvizsga uj\obj\Release\szakvizsga_uj.Form4.resources
+D:\szakvizsgauj\szakvizsga uj\obj\Release\szakvizsga_uj.Palya_vege.resources
+D:\szakvizsgauj\szakvizsga uj\obj\Release\szakvizsga_uj.Properties.Resources.resources
+D:\szakvizsgauj\szakvizsga uj\obj\Release\szakvizsga uj.csproj.GenerateResource.cache
+D:\szakvizsgauj\szakvizsga uj\obj\Release\szakvizsga uj.csproj.CoreCompileInputs.cache
+D:\szakvizsgauj\szakvizsga uj\obj\Release\szakvizsga uj.exe
+D:\szakvizsgauj\szakvizsga uj\obj\Release\szakvizsga uj.pdb
