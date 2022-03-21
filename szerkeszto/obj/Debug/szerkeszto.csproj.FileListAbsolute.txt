@@ -1,0 +1,31 @@
+D:\szakvizsgauj\szerkeszto\szerkeszto\obj\Debug\szerkeszto.csprojAssemblyReference.cache
+D:\szakvizsgauj\szerkeszto\szerkeszto\obj\Debug\szerkeszto.Form2.resources
+D:\szakvizsgauj\szerkeszto\szerkeszto\obj\Debug\szerkeszto.Properties.Resources.resources
+D:\szakvizsgauj\szerkeszto\szerkeszto\obj\Debug\szerkeszto.csproj.GenerateResource.cache
+D:\szakvizsgauj\szerkeszto\szerkeszto\obj\Debug\szerkeszto.csproj.CoreCompileInputs.cache
+D:\szakvizsgauj\szerkeszto\szerkeszto\bin\Debug\szerkeszto.exe.config
+D:\szakvizsgauj\szerkeszto\szerkeszto\bin\Debug\szerkeszto.exe
+D:\szakvizsgauj\szerkeszto\szerkeszto\bin\Debug\szerkeszto.pdb
+D:\szakvizsgauj\szerkeszto\szerkeszto\obj\Debug\szerkeszto.exe
+D:\szakvizsgauj\szerkeszto\szerkeszto\obj\Debug\szerkeszto.pdb
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szerkeszto\szerkeszto\bin\Debug\szerkeszto.exe.config
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szerkeszto\szerkeszto\bin\Debug\szerkeszto.exe
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szerkeszto\szerkeszto\bin\Debug\szerkeszto.pdb
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szerkeszto\szerkeszto\obj\Debug\szerkeszto.csprojAssemblyReference.cache
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szerkeszto\szerkeszto\obj\Debug\szerkeszto.Form2.resources
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szerkeszto\szerkeszto\obj\Debug\szerkeszto.Properties.Resources.resources
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szerkeszto\szerkeszto\obj\Debug\szerkeszto.csproj.GenerateResource.cache
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szerkeszto\szerkeszto\obj\Debug\szerkeszto.csproj.CoreCompileInputs.cache
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szerkeszto\szerkeszto\obj\Debug\szerkeszto.exe
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szerkeszto\szerkeszto\obj\Debug\szerkeszto.pdb
+E:\Szakvizsga 12E\szerkeszto\bin\Debug\szerkeszto.exe.config
+E:\Szakvizsga 12E\szerkeszto\bin\Debug\szerkeszto.exe
+E:\Szakvizsga 12E\szerkeszto\bin\Debug\szerkeszto.pdb
+E:\Szakvizsga 12E\szerkeszto\obj\Debug\szerkeszto.csprojAssemblyReference.cache
+E:\Szakvizsga 12E\szerkeszto\obj\Debug\szerkeszto.Form2.resources
+E:\Szakvizsga 12E\szerkeszto\obj\Debug\szerkeszto.Properties.Resources.resources
+E:\Szakvizsga 12E\szerkeszto\obj\Debug\szerkeszto.csproj.GenerateResource.cache
+E:\Szakvizsga 12E\szerkeszto\obj\Debug\szerkeszto.csproj.CoreCompileInputs.cache
+E:\Szakvizsga 12E\szerkeszto\obj\Debug\szerkeszto.exe
+E:\Szakvizsga 12E\szerkeszto\obj\Debug\szerkeszto.pdb
+E:\Szakvizsga 12E\szerkeszto\obj\Debug\szerkeszto.LoadingScreen.resources

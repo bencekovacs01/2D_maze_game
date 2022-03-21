@@ -1,0 +1,90 @@
+D:\szakvizsgauj\szakvizsga uj\obj\Debug\szakvizsga uj.csprojAssemblyReference.cache
+D:\szakvizsgauj\szakvizsga uj\obj\Debug\szakvizsga_uj.form1.resources
+D:\szakvizsgauj\szakvizsga uj\obj\Debug\szakvizsga_uj.Form2.resources
+D:\szakvizsgauj\szakvizsga uj\obj\Debug\szakvizsga_uj.Form4.resources
+D:\szakvizsgauj\szakvizsga uj\obj\Debug\szakvizsga_uj.Palya_vege.resources
+D:\szakvizsgauj\szakvizsga uj\obj\Debug\szakvizsga_uj.Properties.Resources.resources
+D:\szakvizsgauj\szakvizsga uj\obj\Debug\szakvizsga uj.csproj.GenerateResource.cache
+D:\szakvizsgauj\szakvizsga uj\obj\Debug\szakvizsga uj.csproj.CoreCompileInputs.cache
+D:\szakvizsgauj\szakvizsga uj\bin\Debug\szakvizsga uj.exe.config
+D:\szakvizsgauj\szakvizsga uj\bin\Debug\szakvizsga uj.exe
+D:\szakvizsgauj\szakvizsga uj\bin\Debug\szakvizsga uj.pdb
+D:\szakvizsgauj\szakvizsga uj\obj\Debug\szakvizsga uj.exe
+D:\szakvizsgauj\szakvizsga uj\obj\Debug\szakvizsga uj.pdb
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\obj\Debug\szakvizsga uj.csprojAssemblyReference.cache
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\obj\Debug\szakvizsga_uj.form1.resources
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\obj\Debug\szakvizsga_uj.Form2.resources
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\obj\Debug\szakvizsga_uj.Form4.resources
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\obj\Debug\szakvizsga_uj.Palya_vege.resources
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\obj\Debug\szakvizsga_uj.Properties.Resources.resources
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\obj\Debug\szakvizsga uj.csproj.GenerateResource.cache
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\obj\Debug\szakvizsga uj.csproj.CoreCompileInputs.cache
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\obj\Debug\szakvizsga uj.exe
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\obj\Debug\szakvizsga uj.pdb
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\bin\Debug\szakvizsga uj.exe.config
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\bin\Debug\szakvizsga uj.exe
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\bin\Debug\szakvizsga uj.pdb
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\obj\Debug\szakvizsga uj.csproj.ResolveComReference.cache
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kajtar Endre\Desktop\vegleges\szakvizsga uj\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\bin\Debug\szakvizsga uj.exe.config
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\bin\Debug\szakvizsga uj.exe
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\bin\Debug\szakvizsga uj.pdb
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\obj\Debug\szakvizsga uj.csprojAssemblyReference.cache
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\obj\Debug\szakvizsga uj.csproj.ResolveComReference.cache
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\obj\Debug\szakvizsga_uj.form1.resources
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\obj\Debug\szakvizsga_uj.Form2.resources
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\obj\Debug\szakvizsga_uj.Form4.resources
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\obj\Debug\szakvizsga_uj.Palya_vege.resources
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\obj\Debug\szakvizsga_uj.Properties.Resources.resources
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\obj\Debug\szakvizsga uj.csproj.GenerateResource.cache
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\obj\Debug\szakvizsga uj.csproj.CoreCompileInputs.cache
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\obj\Debug\szakvizsga uj.exe
+C:\Users\Kajtar Endre\Desktop\Új mappa (2)\szakvizsga uj\obj\Debug\szakvizsga uj.pdb
+D:\szakvizsgauj\szakvizsga uj\bin\Debug\Interop.WMPLib.dll
+D:\szakvizsgauj\szakvizsga uj\bin\Debug\AxInterop.WMPLib.dll
+D:\szakvizsgauj\szakvizsga uj\obj\Debug\Interop.WMPLib.dll
+D:\szakvizsgauj\szakvizsga uj\obj\Debug\AxInterop.WMPLib.dll
+D:\szakvizsgauj\szakvizsga uj\obj\Debug\szakvizsga uj.csproj.ResolveComReference.cache
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\bin\Debug\szakvizsga uj.exe.config
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\bin\Debug\szakvizsga uj.exe
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\bin\Debug\szakvizsga uj.pdb
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga uj.csprojAssemblyReference.cache
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga uj.csproj.ResolveComReference.cache
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga_uj.form1.resources
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga_uj.Form2.resources
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga_uj.Form4.resources
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga_uj.Palya_vege.resources
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga_uj.Properties.Resources.resources
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga uj.csproj.GenerateResource.cache
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga uj.csproj.CoreCompileInputs.cache
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga uj.exe
+C:\Users\Kajtar Endre\Desktop\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga uj.pdb
+E:\Szakvizsga 12E\szakvizsga uj\bin\Debug\szakvizsga uj.exe.config
+E:\Szakvizsga 12E\szakvizsga uj\bin\Debug\szakvizsga uj.exe
+E:\Szakvizsga 12E\szakvizsga uj\bin\Debug\szakvizsga uj.pdb
+E:\Szakvizsga 12E\szakvizsga uj\bin\Debug\Interop.WMPLib.dll
+E:\Szakvizsga 12E\szakvizsga uj\bin\Debug\AxInterop.WMPLib.dll
+E:\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga uj.csprojAssemblyReference.cache
+E:\Szakvizsga 12E\szakvizsga uj\obj\Debug\Interop.WMPLib.dll
+E:\Szakvizsga 12E\szakvizsga uj\obj\Debug\AxInterop.WMPLib.dll
+E:\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga uj.csproj.ResolveComReference.cache
+E:\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga_uj.Form2.resources
+E:\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga_uj.Form4.resources
+E:\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga_uj.Palya_vege.resources
+E:\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga_uj.Properties.Resources.resources
+E:\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga uj.csproj.GenerateResource.cache
+E:\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga uj.csproj.CoreCompileInputs.cache
+E:\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga uj.exe
+E:\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga uj.pdb
+E:\Szakvizsga 12E\szakvizsga uj\obj\Debug\szakvizsga_uj.mainWindow.resources
