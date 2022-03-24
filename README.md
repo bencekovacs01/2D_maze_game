@@ -1,6 +1,6 @@
 # 2D_maze_project
 This is a 2D maze game developed in C#, Microsoft Visual Studio.
-Everything is written in hungarian, since the committee that evaluated this project asked for that.
+Everything is written in hungarian, as the committee that evaluated this project asked.
 
 The main .exe file can be reached on szakvizsgauj\szakvizsga uj\bin\Debug\szakvizsga uj.exe
 The first button starts the actual game, the second button is for game settings: music selection, difficulty, volume and character selection.
